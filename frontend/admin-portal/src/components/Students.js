@@ -20,8 +20,8 @@ import {
   List,
   Eye
 } from 'lucide-react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/Card';
-import { Badge } from './ui/Badge';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
+import { Badge } from './ui/badge';
 import { Button } from './ui/button';
 import { Avatar, AvatarFallback, AvatarImage } from './ui/Avatar';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/Tabs';

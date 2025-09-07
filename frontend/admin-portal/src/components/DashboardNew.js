@@ -11,8 +11,8 @@ import {
   Star,
   Activity
 } from 'lucide-react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/Card';
-import { Badge } from './ui/Badge';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
+import { Badge } from './ui/badge';
 import { Progress } from './ui/Progress';
 import { Avatar, AvatarFallback, AvatarImage } from './ui/Avatar';
 
