@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import StudentPortal from './components/StudentPortal';
+import StudentPortal from './components/StudentPortalNew';
 import './App.css';
 
 function App() {
