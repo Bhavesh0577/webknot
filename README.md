@@ -6,8 +6,7 @@ Quick start:
 
 - Requirements: Node.js 14+ and npm
 - Install: npm install
-- Setup sample data: npm run setup
-- Run: npm run dev
+- Run: npm start
 - API: http://localhost:3000/api/v1 (health: /health)
 
 Backend:
